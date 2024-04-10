@@ -4,6 +4,7 @@ I'm a data analyst with strong analytical skills and experience in Excel, Power 
 
 - 🔭  **Skills:** ( Microsoft Excel, Power BI, Tableau, SQL and Python-Pandas, NumPy and MatPlotlib )
 - 👯 **Looking for:** Collaborations on interesting data analysis projects
+- 📫 ** How to reach me:** https://twitter.com/Moakwarandu
 - 📫  **Let's chat:** mailto: (moakwarandu@gmail.com)
 - 😄  I’m gradually skilling up in Machine learning.
 - ⚡ **Fun fact:** I can speak three languages fluently!
